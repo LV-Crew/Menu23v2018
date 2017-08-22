@@ -1,0 +1,4 @@
+AuthType Basic 
+AuthName "Geschützter Bereich" 
+AuthUserFile /opt/lampp/htdocs/lv-crew.org/admin/.htpasswd 
+Require valid-user
