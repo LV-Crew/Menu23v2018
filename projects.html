@@ -1,9 +1,19 @@
 <!DOCTYPE html>
-
+<!-- ==============================
+    Project:        Metronic "Aitonepage" Frontend Freebie - Responsive HTML Template Based On Twitter Bootstrap 3.3.4
+    Version:        1.0
+    Author:         KeenThemes
+    Primary use:    Corporate, Business Themes.
+    Email:          support@keenthemes.com
+    Follow:         http://www.twitter.com/keenthemes
+    Like:           http://www.facebook.com/keenthemes
+    Website:        http://www.keenthemes.com
+    Premium:        Premium Metronic Admin Theme: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+================================== -->
 <html lang="en" class="no-js">
-   
+    <!-- BEGIN HEAD -->
     <head>
-		<!--favicon.ico--->
+		<!-- Favicon -->
 		<link rel="apple-touch-icon" sizes="57x57" href="favicon.ico/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="favicon.ico/apple-icon-60x60.png">
 		<link rel="apple-touch-icon" sizes="72x72" href="favicon.ico/apple-icon-72x72.png">
@@ -17,6 +27,7 @@
 		<link rel="icon" type="image/png" sizes="32x32" href="favicon.ico/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="favicon.ico/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="favicon.ico/favicon-16x16.png">
+		<link rel="shortcut icon" href="favicon.ico"/>
 		<link rel="manifest" href="favicon.ico/manifest.json">
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="favicon.ico/ms-icon-144x144.png">
@@ -27,48 +38,62 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="W3lc0m3 t0 th3 LV-Cr3w - Projects" name="description"/>
-        <meta content="LV-Crew" name="author"/>
+        <meta content="Tobias B. Besemer" name="author"/>
+		
+		<!-- GLOBAL MANDATORY STYLES -->
         <link href="http://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet" type="text/css">
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         <link href="vendor/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css"/>
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+		
+		<!-- PAGE LEVEL PLUGIN STYLES -->
         <link href="css/animate.css" rel="stylesheet">
         <link href="vendor/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"/>
+		
+		<!-- THEME STYLES -->
         <link href="css/layout.min.css" rel="stylesheet" type="text/css"/>
 		
-		<!--
-        <link rel="shortcut icon" href="favicon.ico"/>
-		--->
     </head>
-   
-  
+    <!-- END HEAD -->
+	
+    <!-- BODY -->
     <body id="body" data-spy="scroll" data-target=".header" style="color:white;background-color:black;">
-
-          <header class="header navbar-fixed-top"'>
-              <nav class="navbar" role="navigation">
+		
+        <!--========== HEADER ==========-->
+        <header class="header navbar-fixed-top">
+            <!-- Navbar -->
+            <nav class="navbar" role="navigation">
                 <div class="container">
-                      <div class="menu-container js_nav-item">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="menu-container js_nav-item">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="toggle-icon"></span>
                         </button>
-
-                          <div class="logo">
+						
+                        <!-- Logo -->
+                        <div class="logo">
                             <a class="logo-wrap" href="#body">
+								<img class="logo-img logo-img-main" src="img/favicon-96x96.png" alt="LVC-Logo">
+								<img class="logo-img logo-img-active" src="img/favicon-96x96.png" alt="LVC-Logo">
 								<h3>LV-Crew (LVC)</h3>
                             </a>
                         </div>
+						<!-- End Logo -->
                     </div>
-
+					
+					<!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse nav-collapse">
 					
-					<!--div class="language-switcher">
+					<!--
+					<div class="language-switcher">
 					  <ul class="nav-lang">
                         <li><a class="active" href="#">EN</a></li>
 					    <li><a href="#">DE</a></li>
 						<li><a href="#">FR</a></li>
 					  </ul>
-					</div---> 
+					</div>
+					-->
 					
                         <div class="menu-container">
                             <ul class="nav navbar-nav navbar-nav-right">
@@ -80,13 +105,17 @@
 								<li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="impressum.html">Impressum</a></li>
                             </ul>
                         </div>
+						
                     </div>
+                    <!-- End Navbar Collapse -->
                 </div>
             </nav>
-			</header>
-       
-	   <!--
-
+            <!-- Navbar -->
+        </header>
+        <!--========== END HEADER ==========-->
+		
+        <!--========== SLIDER ==========-->
+		<!--
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <div class="container">
             </div>
@@ -134,33 +163,33 @@
                     </div>
                 </div>
                 <!--// end row -->
-
+				
                 <div class="row">
+					
                     <!-- Latest Products -->
                     <div class="col-sm-4 sm-margin-b-50">
-                        <h4><a href="#">Hosts Manager</a> <span class="text-uppercase margin-l-20">AdBlocker</span></h4>
-                        <p>This program allows you to update your hosts file with a blacklist.
-The blacklisted traffic is being redirected to a whitepage (or a URL/localhost).
-Therfore you are protected from tracking and from spam ads and more.</p>
+                        <h4><a href="#">HostsManager</a> <span class="text-uppercase margin-l-20">AdBlocker</span></h4>
+                        <p>The HostsManager allows you to update your hosts file with a downloaded blacklist</p>
                         <a class="link" href="https://github.com/LV-Crew/HostsManager" target="_blank">Details</a>
                     </div>
                     <!-- End Latest Products -->
-
+					
                     <!-- Latest Products -->
                     <div class="col-sm-4 sm-margin-b-50">
-                        <h4><a href="#">Secuvox Browser</a> <span class="text-uppercase margin-l-20">Webbrowser</span></h4>
-                        <p>A Firefox based browser aiming at privacy including an Adblocker, fingerprinting protection as well as psychological profiling protection.<br></p>
-                        <a class="link" href="https://github.com/LV-Crew/Secuvox-Browser" target="_blank">Details</a>
+                        <h4><a href="#">Adblocker</a> <span class="text-uppercase margin-l-20">AdBlocker</span></h4>
+                        <p>Perhaps the smallest system-wide Adblocker ever! A Clone of HostsManager from LVC!</p>
+                        <a class="link" href="https://github.com/LV-Crew/Adblocker" target="_blank">Details</a>
                     </div>
                     <!-- End Latest Products -->
-
+					
                     <!-- Latest Products -->
                     <div class="col-sm-4 sm-margin-b-50">
-                        <h4><a href="#">Secuvox Addon</a> <span class="text-uppercase margin-l-20">Privacy</span></h4>
-                        <p>A Firefox/Chrome addon aiming at privacy including an Adblocker, fingerprinting protection as well as psychological profiling protection.<br></p>
-                        <a class="link" href="https://github.com/LV-Crew/Secuvox-Extension" target="_blank">Details</a>
+                        <h4><a href="#">Adblocker-for-Android</a> <span class="text-uppercase margin-l-20">AdBlocker</span></h4>
+                        <p>An InApp and Browser Adblocker based on hosts file blacklists</p>
+                        <a class="link" href="https://github.com/LV-Crew/Adblocker-for-Android" target="_blank">Details</a>
                     </div>
                     <!-- End Latest Products -->
+					
                 </div>
                 <!--// end row -->
             </div>
@@ -169,24 +198,25 @@ Therfore you are protected from tracking and from spam ads and more.</p>
         <div id="products">
             <div class="content-lg container">
                 <!--// end row -->
-
+				
                 <div class="row">
+					
                     <!-- Latest Products -->
                     <div class="col-sm-4 sm-margin-b-50">
                         <h4><a href="#">FNUtils</a> <span class="text-uppercase margin-l-20">Database</span></h4>
-                        <p>-beschreibung kommt noch-<br><br></p>
+                        <p>LV-Crew.org_(LVC)_-_Release_-_FNUtils</p>
                         <a class="link" href="https://github.com/LV-Crew/FNUtils" target="_blank">Details</a>
                     </div>
                     <!-- End Latest Products -->
-
+					
                     <!-- Latest Products -->
                     <div class="col-sm-4 sm-margin-b-50">
-                        <h4><a href="#">Ajax Visual Webeditor</a> <span class="text-uppercase margin-l-20">Webeditor</span></h4>
-                        <p>Ajax Web Developer - RAD JavaScript IDE with full featured WYSIWYG form editor.</p>
-                        <a class="link" href="https://github.com/LV-Crew/ajaxweb" target="_blank">Details</a>
+                        <h4><a href="#">hosts</a> <span class="text-uppercase margin-l-20">hosts</span></h4>
+                        <p>LV-Crew.org_(LVC)_-_Release_-_hosts</p>
+                        <a class="link" href="https://github.com/LV-Crew/hosts" target="_blank">Details</a>
                     </div>
                     <!-- End Latest Products -->
-
+					
                     <!-- Latest Products -->
                     <div class="col-sm-4 sm-margin-b-50">
                         <h4><a href="#">UnrealTournament Crack</a> <span class="text-uppercase margin-l-20">Crack</span></h4>
@@ -194,7 +224,43 @@ Therfore you are protected from tracking and from spam ads and more.</p>
                         <a class="link" href="https://github.com/LV-Crew/UnrealTournament-Crack" target="_blank">Details</a>
                     </div>
                     <!-- End Latest Products -->
+					
                 </div>
+                <!--// end row -->
+            </div>
+        </div>
+		
+		<!--// Begin latest Products -->
+        <div id="products">
+            <div class="content-lg container">
+                <!--// end row -->
+				
+				<div class="row">
+					<!-- Latest Products -->
+                    <div class="col-sm-4 sm-margin-b-50">
+                        <h4><a href="#">Secuvox Browser</a> <span class="text-uppercase margin-l-20">Webbrowser</span></h4>
+                        <p>A Firefox based browser aiming at privacy including an Adblocker, fingerprinting protection as well as psychological profiling protection.<br></p>
+                        <a class="link" href="https://github.com/LV-Crew/Secuvox-Browser" target="_blank">Details</a>
+                    </div>
+                    <!-- End Latest Products -->
+					
+                    <!-- Latest Products -->
+                    <div class="col-sm-4 sm-margin-b-50">
+                        <h4><a href="#">Secuvox Addon</a> <span class="text-uppercase margin-l-20">Privacy</span></h4>
+                        <p>A Firefox/Chrome addon aiming at privacy including an Adblocker, fingerprinting protection as well as psychological profiling protection.<br></p>
+                        <a class="link" href="https://github.com/LV-Crew/Secuvox-Extension" target="_blank">Details</a>
+                    </div>
+                    <!-- End Latest Products -->
+					
+                    <!-- Latest Products -->
+                    <div class="col-sm-4 sm-margin-b-50">
+                        <h4><a href="#">Ajax Visual Webeditor</a> <span class="text-uppercase margin-l-20">Webeditor</span></h4>
+                        <p>Ajax Web Developer - RAD JavaScript IDE with full featured WYSIWYG form editor.</p>
+                        <a class="link" href="https://github.com/LV-Crew/ajaxweb" target="_blank">Details</a>
+                    </div>
+                    <!-- End Latest Products -->
+					
+				</div>
                 <!--// end row -->
             </div>
         </div>
