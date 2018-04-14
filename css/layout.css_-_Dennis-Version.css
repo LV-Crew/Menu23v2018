@@ -39,7 +39,7 @@ p {
   font-size: 15px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #a6a7aa;
+  color: white;
   line-height: 1.4;
   margin-bottom: 15px;
 }
@@ -50,18 +50,18 @@ li a {
   font-size: 16px;
   font-weight: 500;
   font-family: Hind, sans-serif;
-  color: #515769;
+  color: white;
 }
 
 a {
   font-family: Hind, sans-serif;
-  color: #81848f;
+  color: white;
   outline: 0;
 }
 
 a:focus, a:hover, a:active {
   outline: 0;
-  color: #999caa;
+  color: white;
   text-decoration: none;
 }
 
@@ -87,23 +87,23 @@ span {
   font-size: 14px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #bfc1c7;
+  color: white;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   font-family: Hind, sans-serif;
-  color: #515769;
+  color: white;
   line-height: 1.4;
   margin: 0 0 15px;
 }
 
 h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a {
-  color: #515769;
+  color: white;
 }
 
 h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hover {
-  color: #999caa;
+  color: white;
   text-decoration: none;
 }
 
@@ -553,6 +553,7 @@ fieldset[disabled] .btn-theme {
 /* Fixed Top */
 .navbar-fixed-top .navbar-collapse {
   max-height: 100%;
+  background-color:black;
 }
 
 /* Navbar */
@@ -562,6 +563,7 @@ fieldset[disabled] .btn-theme {
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  
 }
 
 /* Navbar Toggle */
@@ -756,13 +758,16 @@ fieldset[disabled] .btn-theme {
   }
   .header .navbar-collapse.collapse {
     display: none !important;
+	background-color: black;
   }
   .header .navbar-collapse.collapse.in {
     display: block !important;
+	background-color: black;
   }
   .header .nav-collapse {
     padding-left: 0;
     padding-right: 0;
+	background-color: black;
   }
   .header .navbar-nav {
     margin: 0;
@@ -770,6 +775,7 @@ fieldset[disabled] .btn-theme {
   }
   .header .navbar-nav .nav-item {
     float: none;
+	background-color: black;
   }
   /* Menu Container */
   .header .menu-container:before, .header .menu-container:after {
@@ -833,7 +839,7 @@ fieldset[disabled] .btn-theme {
 /* Page On Scroll */
 @media (min-width: 992px) {
   .page-on-scroll .header .navbar {
-    background: #fff;
+    background-color:black;
     border-bottom-color: #f0f0f0;
     transition-duration: 300ms;
     transition-property: all;
@@ -1090,31 +1096,31 @@ fieldset[disabled] .btn-theme {
   	[Background Colors]
 ------------------------------------------------------------------*/
 .bg-color-base {
-  background: #17bed2 !important;
+  background-color:black;
 }
 
 .bg-color-white {
-  background: #fff !important;
+  background-color:black;
 }
 
 .bg-color-heading {
-  background: #515769 !important;
+  background-color:black;
 }
 
 .bg-color-subtitle {
-  background: #a6a7aa !important;
+  background-color:black;
 }
 
 .bg-color-link {
-  background: #81848f !important;
+  background-color:black;
 }
 
 .bg-color-link-hover {
-  background: #999caa !important;
+  background-color:black;
 }
 
 .bg-color-sky-light {
-  background: #fafafa !important;
+  background-color:black;
 }
 
 /*------------------------------------------------------------------
