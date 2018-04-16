@@ -2,7 +2,7 @@
 <!-- ==============================
 	Is now...
 	Project:        Menu23v2018.LV-Crew.org
-	Version:        v2018.04.14
+	Version:        v2018.04.16
 	Author:         Tobias B. Besemer for LV-Crew.org
 	Primary use:    Corporate, Business Themes
 	Email:          Info@LV-Crew.org
@@ -47,7 +47,7 @@
 		
 		<meta charset="utf-8"/>
 		<!--<title>W3lc0m3 t0 th3 LV-Cr3w - Home</title>-->
-		<title>LV-Crew.org - Home</title>
+		<title>Home - LV-Crew.org</title>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta content="width=device-width, initial-scale=1" name="viewport"/>
 		<meta content="W3lc0m3 t0 th3 LV-Cr3w - Home" name="description"/>
@@ -61,7 +61,8 @@
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 		
 		<!-- PAGE LEVEL PLUGIN STYLES -->
-		<link href="css/animate.css" rel="stylesheet">
+		<!--<link href="css/animate.css" rel="stylesheet">-->
+		<link href="https://raw.github.com/daneden/animate.css/master/animate.css" rel="stylesheet">
 		<!--<link href="vendor/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"/>-->
 		<link href="https://raw.githubusercontent.com/nolimits4web/swiper/master/dist/css/swiper.min.css" rel="stylesheet" type="text/css"/>
 		
@@ -140,30 +141,37 @@
 		</header>
 		<!--========== END HEADER ==========-->
 		
-		<!-- About us -->
-		<div id="about_us">
+		<!--========== PAGE LAYOUT ==========-->
+		<!-- About -->
+		<div id="about">
 			<div class="content-md container">
-				<div class="row margin-b-40">
-					<!--<div class="col-sm-6">-->
-					<div class="color-white">
-						<h1>LV-Crew.org</h1>
-						<!--<img class="float-left" src="img/LVC-Logo/LV-Crew_-_Logo_-_Crew_2018_-_190x190px.png" alt="Image 'LVC-Logo 190px'">-->
-						<img class="float-right" src="img/LVC-Logo/LV-Crew_-_Logo_-_Crew_2018_-_250px.png" alt="Image 'LVC-Logo 250px'">
-						<p class="color-white">
-							LV-Crew: The Crew of LV !!!<br>
-							<br>
-							Back ones again... !!!<br>
-							There since 1999 !!!<br>
-							<br>
-							LV-Crew (LVC) is the free- / friend-ship-arm of <a class="fweight-700" href=""http://logicaLVisions.biz" target="_blank" style="color:blue">logicaLVisions.biz</a> (LV)!<br>
-							<br>
-							Look also @: <a class="fweight-700" href="https://www.facebook.com/pages/logicaLVisionsbiz/190033134366737" target="_blank" style="color:blue">Facebook</a><br>
-						</p>
+				<!-- Masonry Grid Row -->
+				<div class="masonry-grid row">
+					<div class="masonry-grid-item col-xs-12 col-sm-6 col-md-6 sm-margin-b-30">
+						<div class="margin-b-60">
+							<h1>LV-Crew.org</h1>
+								<p class="color-white">
+									LV-Crew: The Crew of LV !!!<br>
+									<br>
+									Back ones again... !!! There since 1999 !!!<br>
+									<br>
+									LV-Crew (LVC) is the free- / friend-ship-arm of <a class="fweight-700" href=""http://logicaLVisions.biz" target="_blank" style="color:blue">logicaLVisions.biz</a> (LV)!<br>
+									<br>
+									Look also @: <a class="fweight-700" href="https://www.facebook.com/pages/logicaLVisionsbiz/190033134366737" target="_blank" style="color:blue">Facebook</a><br>
+								</p>
+						</div>
+					</div>
+					<div class="masonry-grid-item col-xs-12 col-sm-6 col-md-2">
+						<!--Free Sace-->
+					</div>
+					<div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
+						<img class="full-width img-responsive wow fadeInRight" src="img/LVC-Logo/LV-Crew_-_Logo_-_Crew_2018_-_250px.png" alt="Image 'LVC-Logo 250px" data-wow-duration=".3" data-wow-delay=".2s">
 					</div>
 				</div>
-				<!--// end row -->
+				<!-- End Masonry Grid Row -->
 			</div>
 		</div>
+		<!-- End About -->
 		
 		<!--========== SLIDER ==========-->
 		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -193,7 +201,7 @@
 					<div class="container">
 						<div class="carousel-centered">
 							<div class="margin-b-40">
-								<h1 class="carousel-title">Facebook</h1>
+								<h1 class="carousel-title">We're on Facebook...</h1>
 								<p class="color-white">
 									<!--Neueste News gibt es auf unserer Facebook-Seite!<br>-->
 									Newest News are on our Facebook-Page!<br>
@@ -220,7 +228,7 @@
 					<div class="container">
 						<div class="carousel-centered">
 							<div class="margin-b-40">
-								<h1 class="carousel-title">GitHub</h1>
+								<h1 class="carousel-title">We're on GitHub...</h1>
 								<p class="color-white">
 									Look at our Projects in our GitHub-Organization!<br>
 								</p>
@@ -231,28 +239,16 @@
 				</div>
 			</div>
 		</div>
-		<!--========== SLIDER ==========-->
-		
+		<br>
+		<!--========== END SLIDER ==========-->
 		<!--========== END PAGE LAYOUT ==========-->
 		
 		<!--========== FOOTER ==========-->
 		<footer class="footer">
-			<!--<hr>-->
-			
 			<!-- Copyright -->
 			<div class="content container">
 				<div class="row">
-					<div class="col-xs-6">
-						<!--<hr>-->
-						<p class="margin-b-0">
-							-------------------------------------------------------------------------------------------------------------------------------------------
-						</p>
-					</div>
-				</div>
-				<!--// end row -->
-				
-				<div class="row">
-					<div class="col-xs-6">
+					<div class="masonry-grid-item col-xs-12 col-sm-6 col-md-6 sm-margin-b-30">
 						<!--<img class="footer-logo" src="img/logo-dark.png" alt="Aitonepage Logo">-->
 						<!--<img class="footer-logo" src="favicon.ico/ms-icon-310x310.png" alt="LV-Crew-Logo">-->
 						<p class="margin-b-0">
@@ -260,21 +256,16 @@
 							<a class="fweight-700" style="color:blue" target="_blank" href="http://www.LV-Crew.org">LV-Crew.org</a>
 						</p>
 					</div>
-					<!--<p class="margin-b-0">     -     </p>-->
-					<div class="col-xs-6 text-right">
+					<div class="masonry-grid-item col-xs-12 col-sm-6 col-md-6 sm-margin-b-30 text-right">
 						<p class="margin-b-0">
-							!                     -> 
+							Powered by: 
 							<a class="fweight-700" style="color:blue" target="_blank" href="https://github.com/LV-Crew/Menu23v2018.LV-Crew.org">Menu23v2018</a>
-							<a class="fweight-700" style="color:blue" target="_blank" href="http://keenthemes.com/preview/aitonepage/">'Aitonepage'</a>
-							-Fork-Theme powered by: 
-							<a class="fweight-700" style="color:blue" target="_blank" href="http://www.keenthemes.com/">KeenThemes.com</a>
 						</p>
 					</div>
 				</div>
 				<!--// end row -->
 			</div>
 			<!-- End Copyright -->
-			
 		</footer>
 		<!--========== END FOOTER ==========-->
 		
