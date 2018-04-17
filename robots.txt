@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: http://lv-crew.org/sitemap.xml
+Sitemap: http://LV-Crew.org/sitemap.xml
 Disallow: /.git/
 Disallow: /admin/
 Disallow: /dev-tools/
