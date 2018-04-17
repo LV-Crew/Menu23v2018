@@ -19,3 +19,14 @@ The favicons where generated with: https://www.favicon-generator.org/<br>
 <br>
 This GitHub-Repro is a mirror of our hosted site!<br>
 URL to the repro: https://github.com/LV-Crew/Menu23v2018.LV-Crew.org<br>
+<br>
+Features we added or changed:<br>
+- robots.txt<br>
+- sitemap.xml<br>
+- index.html for redirect & SEO<br>
+- Bootstrap 4<br>
+- JS-Libs from CDNs & net<br>
+- Newest Animation.CSS via URL from net<br>
+- Favicons-Support<br>
+- Multi-Pages<br>
+- Multi-Language-Support<br>

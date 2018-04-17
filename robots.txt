@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /.git/
+Disallow: /admin/
+Disallow: /dev-tools/
+Disallow: /CNAME
+Disallow: /impressum.old.html
+Disallow: /README.md
+Disallow: /readme.txt
+Disallow: /report.html
