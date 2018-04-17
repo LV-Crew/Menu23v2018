@@ -21,12 +21,17 @@ This GitHub-Repro is a mirror of our hosted site!<br>
 URL to the repro: https://github.com/LV-Crew/Menu23v2018.LV-Crew.org<br>
 <br>
 Features we added or changed:<br>
-- robots.txt<br>
-- sitemap.xml<br>
+- robots.txt (German Docu: https://wiki.selfhtml.org/wiki/Grundlagen/Robots.txt)<br>
+- sitemap.xml (Look at: https://en.wikipedia.org/wiki/Sitemaps)<br>
 - index.html for redirect & SEO<br>
-- Bootstrap 4<br>
-- JS-Libs from CDNs & net<br>
+- Update to Bootstrap 4<br>
+- Update by all JS-Libs to newest versions on CDNs & other net-paths<br>
 - Newest Animation.CSS via URL from net<br>
 - Favicons-Support<br>
 - Multi-Pages<br>
 - Multi-Language-Support<br>
+- Pages validated with: https://validator.w3.org/<br>
+- Fonts from Google<br>
+- <br>
+<br>
+We have done search-engine-registration with: <br>

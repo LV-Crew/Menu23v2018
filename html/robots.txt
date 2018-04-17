@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://menu23v2018.lv-crew.org/sitemap.xml

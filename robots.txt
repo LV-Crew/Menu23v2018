@@ -1,9 +1,12 @@
 User-agent: *
+Sitemap: http://lv-crew.org/sitemap.xml
 Disallow: /.git/
 Disallow: /admin/
 Disallow: /dev-tools/
+Disallow: /originals/
 Disallow: /CNAME
 Disallow: /impressum.old.html
+Disallow: /license.txt
 Disallow: /README.md
 Disallow: /readme.txt
 Disallow: /report.html
