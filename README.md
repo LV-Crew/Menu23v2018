@@ -31,6 +31,7 @@ Features we added or changed:<br>
 - Multi-Pages<br>
 - Multi-Language-Support<br>
 - Pages validated with: https://validator.w3.org/<br>
+- Font Awesome v5.0.10<br>
 - Fonts from Google<br>
 - <br>
 <br>
