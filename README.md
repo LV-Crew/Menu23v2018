@@ -3,7 +3,7 @@ Menu23v2018 is a set of pages (mini-CMS) with that the homepages for the LV-Grou
 As a demo, you can have a look at our homepage: http://Menu23v2018.LV-Crew.org.<br>
 Menu23v2018 is a mini-CMS without the use of PHP & SQL...<br>
 <br>
-The homepage (a template) was originaly done by 'KeenThemes' (http://www.keenthemes.com/) under the name 'AitOnepage' and can be downloaded here: <!--<br>-->
+The homepage (a template) was originaly done by 'KeenThemes' (http://www.keenthemes.com/) under the name 'AitOnepage' and can be downloaded here:<br>
 http://keenthemes.com/free-bootstrap-templates/aitonepage-responsive-parallax-one-page-bootstrap-theme/<br>
 A preview of this page is available here: http://keenthemes.com/preview/aitonepage/<br>
 <br>
