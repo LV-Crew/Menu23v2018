@@ -1,9 +1,65 @@
-https://Menu23v2018.LV-Crew.org/about_us.html
-https://Menu23v2018.LV-Crew.org/contact.html
-https://Menu23v2018.LV-Crew.org/feature.html
-https://Menu23v2018.LV-Crew.org/home.html
-https://Menu23v2018.LV-Crew.org/members.html
-https://Menu23v2018.LV-Crew.org/projects.html
-https://Menu23v2018.LV-Crew.org/projects-github.html
-https://Menu23v2018.LV-Crew.org/projects-other.html
-https://Menu23v2018.LV-Crew.org/projects-participating.html
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/about_us.html</loc>
+		<lastmod>2018-04-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/contact.html</loc>
+		<lastmod>2018-04-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/feature.html</loc>
+		<lastmod>2018-04-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/home.html</loc>
+		<lastmod>2018-04-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/index.html</loc>
+		<lastmod>2018-04-20</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/members.html</loc>
+		<lastmod>2018-04-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/projects.html</loc>
+		<lastmod>2018-04-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/projects-github.html</loc>
+		<lastmod>2018-04-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/projects-other.html</loc>
+		<lastmod>2018-04-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://Menu23v2018.LV-Crew.org/projects-participating.html</loc>
+		<lastmod>2018-04-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>
