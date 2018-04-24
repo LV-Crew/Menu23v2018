@@ -56,8 +56,9 @@ https://search.google.com/search-console/not-verified<br>
 <br>
 <br>
 <h3><b>Included Pages:</b></h3>
+
 | Page Name:                     | Page Type:                     | Origin:      | Language: |
-| ---                            | ---                            | ---          | ---       |
+| -------                        | -------                        | -------      | -------   |
 | about.en.html                  | Text with Logo                 | LV-Crew.org  | English   |
 | contact.en.html                | Text with Logo                 | LV-Crew.org  | English   |
 | feature.en.html                | Text (with Logo)               | LV-Crew.org  | English   |
