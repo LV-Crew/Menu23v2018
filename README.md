@@ -56,15 +56,16 @@ https://search.google.com/search-console/not-verified<br>
 <br>
 <br>
 <h3><b>Included Pages:</b></h3>
-about.en.html - Text with Logo - LV-Crew.org - English<br>
-contact.en.html - Text with Logo - LV-Crew.org - English<br>
-feature.en.html - Text (with Logo) - LV-Crew.org - English<br>
-home.en.html - Startpage with slider - LV-Crew.org - English<br>
-index.html - Redirect-Page for SEO - LV-Crew.org - English<br>
-members.en.html - Members-List - LV-Crew.org - English<br>
-projects.en.html - Service-Grid - LV-Crew.org - English<br>
-projects-github.en.html - Projects-Grid - LV-Crew.org - English<br>
-projects-other.en.html - Projects-Grid - LV-Crew.org - English<br>
-projects-participating.en.html - Projects-Grid - LV-Crew.org - English<br>
-robots.txt - robots.txt for search engines - LV-Crew.org - English<br>
-sitemap.xml - sitemap.xml for search engines - LV-Crew.org - English<br>
+Page Name:                      Page Type:                      Origin:       Language:
+about.en.html                   Text with Logo                  LV-Crew.org   English<br>
+contact.en.html                 Text with Logo                  LV-Crew.org   English<br>
+feature.en.html                 Text (with Logo)                LV-Crew.org   English<br>
+home.en.html                    Startpage with slider           LV-Crew.org   English<br>
+index.html                      Redirect-Page for SEO           LV-Crew.org   English<br>
+members.en.html                 Members-List                    LV-Crew.org   English<br>
+projects.en.html                Service-Grid                    LV-Crew.org   English<br>
+projects-github.en.html         Projects-Grid                   LV-Crew.org   English<br>
+projects-other.en.html          Projects-Grid                   LV-Crew.org   English<br>
+projects-participating.en.html  Projects-Grid                   LV-Crew.org   English<br>
+robots.txt                      robots.txt for search engines   LV-Crew.org   English<br>
+sitemap.xml                     sitemap.xml for search engines  LV-Crew.org   English<br>
