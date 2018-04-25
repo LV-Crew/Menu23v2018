@@ -32,6 +32,8 @@ URL to the repo: https://github.com/LV-Crew/Menu23v2018<br>
 - Split the template in multiple pages<br>
 - Multi-Language-Support (in menu)<br>
 - Better Favicons-Support<br>
+- Added Open Graph Meta Tags<br>
+- Added Twitter Card Meta Tags<br>
 - Added a index.html for redirect & SEO (from https://github.com/LV-Crew/Redirects)<br>
 - Added robots.txt for search engines (look below for more infos)<br>
 - Added sitemap.xml for search engines (in XML with multi-language-support) (look below for more infos)<br>
