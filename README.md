@@ -61,6 +61,7 @@ German article to Open Graph Meta Tags: https://www.promomasters.at/blog/open-gr
 The Open Graph protocol: http://ogp.me/<br>
 Twitter Card Meta Tag Article: https://davidwalsh.name/twitter-cards<br>
 W3C JSON-LD Wikipedia Article: https://en.wikipedia.org/wiki/JSON-LD<br>
+'JSON for Linking Data'-Homepage: https://json-ld.org/<br>
 <br>
 <br>
 <h3><b>Informations to Search Engines:</b></h3>
