@@ -17,11 +17,6 @@ After that the page was edited by Dennis Heine for the LVC...<br>
 <br>
 We putted finaly all the work & files (the usable from 'AitOnepage' & 'Flame OnePage') together, modified a lot and released it as 'Menu23v2018'.<br>
 <br>
-The favicons where generated with: https://www.favicon-generator.org/<br>
-<br>
-This GitHub-Repo is a mirror of our hosted site!<br>
-URL to the repo: https://github.com/LV-Crew/Menu23v2018<br>
-<br>
 <br>
 <h3><b>Features we added or changed:</b></h3>
 - Use of Font Awesome v5.0.10 (were possible)<br>
@@ -34,10 +29,38 @@ URL to the repo: https://github.com/LV-Crew/Menu23v2018<br>
 - Better Favicons-Support<br>
 - Added Open Graph Meta Tags<br>
 - Added Twitter Card Meta Tags<br>
+- Added W3C JSON-LD<br>
 - Added a index.html for redirect & SEO (from https://github.com/LV-Crew/Redirects)<br>
 - Added robots.txt for search engines (look below for more infos)<br>
 - Added sitemap.xml for search engines (in XML with multi-language-support) (look below for more infos)<br>
 - Validated pages with: https://validator.w3.org/<br>
+<br>
+<br>
+<h3><b>Included Pages:</b></h3>
+
+| Page Name:                     | Page Type:                     | Origin:      | Language: |
+| -------                        | -------                        | -------      | -------   |
+| about.en.html                  | Text with Logo                 | LV-Crew.org  | English   |
+| contact.en.html                | Text with Logo                 | LV-Crew.org  | English   |
+| feature.en.html                | Text (with Logo)               | LV-Crew.org  | English   |
+| home.en.html                   | Startpage with slider          | LV-Crew.org  | English   |
+| index.html                     | Redirect-Page for SEO          | LV-Crew.org  | English   |
+| members.en.html                | Members-List                   | LV-Crew.org  | English   |
+| projects.en.html               | Service-Grid                   | LV-Crew.org  | English   |
+| projects-github.en.html        | Projects-Grid                  | LV-Crew.org  | English   |
+| projects-other.en.html         | Projects-Grid                  | LV-Crew.org  | English   |
+| projects-participating.en.html | Projects-Grid                  | LV-Crew.org  | English   |
+| robots.txt                     | robots.txt for search engines  | LV-Crew.org  | English   |
+| sitemap.xml                    | sitemap.xml for search engines | LV-Crew.org  | English   |
+
+<br>
+<br>
+<h3><b>Personalize you pages:</b></h3>
+Favicons can be generated with: https://www.favicon-generator.org/<br>
+German article to Open Graph Meta Tags: https://www.promomasters.at/blog/open-graph-meta-tags/<br>
+The Open Graph protocol: http://ogp.me/<br>
+Twitter Card Meta Tag Article: https://davidwalsh.name/twitter-cards<br>
+W3C JSON-LD Wikipedia Article: https://en.wikipedia.org/wiki/JSON-LD<br>
 <br>
 <br>
 <h3><b>Informations to Search Engines:</b></h3>
@@ -57,19 +80,4 @@ http://www.freewebsubmission.com/<br>
 https://search.google.com/search-console/not-verified<br>
 <br>
 <br>
-<h3><b>Included Pages:</b></h3>
-
-| Page Name:                     | Page Type:                     | Origin:      | Language: |
-| -------                        | -------                        | -------      | -------   |
-| about.en.html                  | Text with Logo                 | LV-Crew.org  | English   |
-| contact.en.html                | Text with Logo                 | LV-Crew.org  | English   |
-| feature.en.html                | Text (with Logo)               | LV-Crew.org  | English   |
-| home.en.html                   | Startpage with slider          | LV-Crew.org  | English   |
-| index.html                     | Redirect-Page for SEO          | LV-Crew.org  | English   |
-| members.en.html                | Members-List                   | LV-Crew.org  | English   |
-| projects.en.html               | Service-Grid                   | LV-Crew.org  | English   |
-| projects-github.en.html        | Projects-Grid                  | LV-Crew.org  | English   |
-| projects-other.en.html         | Projects-Grid                  | LV-Crew.org  | English   |
-| projects-participating.en.html | Projects-Grid                  | LV-Crew.org  | English   |
-| robots.txt                     | robots.txt for search engines  | LV-Crew.org  | English   |
-| sitemap.xml                    | sitemap.xml for search engines | LV-Crew.org  | English   |
+URL to this repo: https://github.com/LV-Crew/Menu23v2018<br>
