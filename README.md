@@ -33,7 +33,7 @@ We putted finaly all the work & files (the usable from 'AitOnepage' & 'Flame One
 - Added a index.html for redirect & SEO (from https://github.com/LV-Crew/Redirects)<br>
 - Added robots.txt for search engines (look below for more infos)<br>
 - Added sitemap.xml for search engines (in XML with multi-language-support) (look below for more infos)<br>
-- Validated pages with: https://validator.w3.org/<br>
+- Pages validated<br>
 <br>
 <br>
 <h3><b>Included Pages:</b></h3>
@@ -59,9 +59,15 @@ We putted finaly all the work & files (the usable from 'AitOnepage' & 'Flame One
 Favicons can be generated with: https://www.favicon-generator.org/<br>
 German article to Open Graph Meta Tags: https://www.promomasters.at/blog/open-graph-meta-tags/<br>
 The Open Graph protocol: http://ogp.me/<br>
+Your FB-ID for OG: https://findmyfbid.com/<br>
 Twitter Card Meta Tag Article: https://davidwalsh.name/twitter-cards<br>
 W3C JSON-LD Wikipedia Article: https://en.wikipedia.org/wiki/JSON-LD<br>
 'JSON for Linking Data'-Homepage: https://json-ld.org/<br>
+<br>
+<br>
+<h3><b>Validate your pages:</b></h3>
+html: https://validator.w3.org/<br>
+OG: https://developers.facebook.com/tools/debug/sharing/<br>
 <br>
 <br>
 <h3><b>Informations to Search Engines:</b></h3>
