@@ -82,9 +82,10 @@ https://wiki.selfhtml.org/wiki/Sitemap (German)<br>
 https://de.wikipedia.org/wiki/Sitemaps-Protokoll (German)<br>
 <br>
 We have done search-engine-registration with:<br>
-https://www.entireweb.com/free_submission/<br>
-http://www.freewebsubmission.com/<br>
 https://search.google.com/search-console/not-verified<br>
+https://www.bing.com/webmaster/home/addsite<br>
+http://www.freewebsubmission.com/<br>
+https://www.entireweb.com/free_submission/<br>
 <br>
 <br>
 URL to this repo: https://github.com/LV-Crew/Menu23v2018<br>
