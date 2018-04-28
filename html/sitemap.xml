@@ -1,59 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+		xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	<url>
 		<loc>https://Menu23v2018.LV-Crew.org/contact.html</loc>
-		<lastmod>2018-04-24</lastmod>
+		<lastmod>2018-04-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://Menu23v2018.LV-Crew.de/contact.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://Menu23v2018.LV-Crew.org/contact.html" />
 	</url>
 	<url>
 		<loc>https://Menu23v2018.LV-Crew.org/feature.html</loc>
-		<lastmod>2018-04-24</lastmod>
+		<lastmod>2018-04-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://Menu23v2018.LV-Crew.de/feature.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://Menu23v2018.LV-Crew.org/feature.html" />
 	</url>
 	<url>
 		<loc>https://Menu23v2018.LV-Crew.org/home.html</loc>
-		<lastmod>2018-04-24</lastmod>
+		<lastmod>2018-04-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://Menu23v2018.LV-Crew.de/home.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://Menu23v2018.LV-Crew.org/home.html" />
 	</url>
 	<url>
 		<loc>https://Menu23v2018.LV-Crew.org/index.html</loc>
-		<lastmod>2018-04-20</lastmod>
+		<lastmod>2018-04-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://Menu23v2018.LV-Crew.de/index.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://Menu23v2018.LV-Crew.org/index.html" />
 	</url>
 	<url>
 		<loc>https://Menu23v2018.LV-Crew.org/members.html</loc>
-		<lastmod>2018-04-24</lastmod>
+		<lastmod>2018-04-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://Menu23v2018.LV-Crew.de/members.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://Menu23v2018.LV-Crew.org/members.html" />
 	</url>
 	<url>
 		<loc>https://Menu23v2018.LV-Crew.org/projects.html</loc>
-		<lastmod>2018-04-24</lastmod>
+		<lastmod>2018-04-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://Menu23v2018.LV-Crew.de/projects.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://Menu23v2018.LV-Crew.org/projects.html" />
 	</url>
 	<url>
 		<loc>https://Menu23v2018.LV-Crew.org/projects-github.html</loc>
-		<lastmod>2018-04-24</lastmod>
+		<lastmod>2018-04-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://Menu23v2018.LV-Crew.de/projects-github.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://Menu23v2018.LV-Crew.org/projects-github.html" />
 	</url>
 	<url>
 		<loc>https://Menu23v2018.LV-Crew.org/projects-other.html</loc>
-		<lastmod>2018-04-24</lastmod>
+		<lastmod>2018-04-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://Menu23v2018.LV-Crew.de/projects-other.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://Menu23v2018.LV-Crew.org/projects-other.html" />
 	</url>
 	<url>
 		<loc>https://Menu23v2018.LV-Crew.org/projects-participating.html</loc>
-		<lastmod>2018-04-24</lastmod>
+		<lastmod>2018-04-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://Menu23v2018.LV-Crew.de/projects-participating.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://Menu23v2018.LV-Crew.org/projects-participating.html" />
 	</url>
 </urlset>
