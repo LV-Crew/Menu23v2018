@@ -44,7 +44,7 @@ We putted finaly all the work & files (the usable from 'AitOnepage' & 'Flame One
 | contact.en.html                | Text with Logo                 | LV-Crew.org  | English   |
 | feature.en.html                | Text (with Logo)               | LV-Crew.org  | English   |
 | home.en.html                   | Startpage with slider          | LV-Crew.org  | English   |
-| index.html                     | Redirect-Page for SEO          | LV-Crew.org  | English   |
+| index.en.html                  | Redirect-Page for SEO          | LV-Crew.org  | English   |
 | members.en.html                | Members-List                   | LV-Crew.org  | English   |
 | projects.en.html               | Service-Grid                   | LV-Crew.org  | English   |
 | projects-github.en.html        | Projects-Grid                  | LV-Crew.org  | English   |
@@ -85,7 +85,9 @@ We have done search-engine-registration with:<br>
 https://search.google.com/search-console/not-verified<br>
 https://www.bing.com/webmaster/home/addsite<br>
 http://www.freewebsubmission.com/<br>
-https://www.entireweb.com/free_submission/<br>
+(You need to verify you by the mails in your inbox!)<br>
+(Please check also your spam folder!)<br>
+(https://www.entireweb.com/free_submission/ incl. by freewebsubmission)<br>
 <br>
 <br>
 URL to this repo: https://github.com/LV-Crew/Menu23v2018<br>
