@@ -66,7 +66,7 @@ W3C JSON-LD Wikipedia Article: https://en.wikipedia.org/wiki/JSON-LD<br>
 <br>
 <br>
 <h3><b>Validate your pages:</b></h3>
-html: https://validator.w3.org/<br>
+HTML: https://validator.w3.org/<br>
 OG: https://developers.facebook.com/tools/debug/sharing/<br>
 sitemap.xml: https://www.xml-sitemaps.com/validate-xml-sitemap.html<br>
 <br>
